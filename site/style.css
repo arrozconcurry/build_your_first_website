@@ -1,0 +1,22 @@
+header {
+    border: darkred 20px solid;
+    text-align: center;
+}
+
+main {
+    background-color: beige
+}
+
+a:hover {
+ color: red;
+}
+
+ul {
+    list-style-type: none;
+}
+
+footer {
+    border: darkred 15px solid;
+    background-color: antiquewhite;
+    text-align: center;
+}
